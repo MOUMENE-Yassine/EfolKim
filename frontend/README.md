@@ -1,9 +1,10 @@
 EfolKim: E-commerce Website
+
 Your Shop Journey, Your Prefere Leather Products
 
-## Available Scripts
-
 In the project directory, you can run:
+
+### `npm install`
 
 ### `npm start`
 
