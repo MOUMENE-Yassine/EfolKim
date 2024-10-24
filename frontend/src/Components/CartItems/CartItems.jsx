@@ -10,6 +10,7 @@ const CartItems = () => {
 
   return (
     <div className="cartitems">
+      <div className="cartitems-space">.</div>
       <div className="cartitems-format-main">
         <p>Products</p>
         <p>Title</p>
@@ -58,13 +59,6 @@ const CartItems = () => {
             </div>
           </div>
           <button>PROCEED TO CHECKOUT</button>
-        </div>
-        <div className="cartitems-promocode">
-          <p>If you have a promo code, Enter it here</p>
-          <div className="cartitems-promobox">
-            <input type="text" placeholder="promo code" />
-            <button>Submit</button>
-          </div>
         </div>
       </div>
     </div>
