@@ -7,6 +7,10 @@
     font-size: 14px;
     font-weight: 500;
     margin: 20px 10%;
+    margin-top: 0px;
+}
+.breadcrums-space{
+    margin-top: 40px;
 }
 .breadcrums img{
     height: 12px;
