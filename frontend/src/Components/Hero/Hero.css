@@ -13,7 +13,7 @@
     line-height: 1.1;
 }
 .hero-right h2{
-     color: #090909;
+     color: red;
      font-size: 70px;
      font-weight: 700;
 }
@@ -31,7 +31,7 @@
     height: 70px;
     border-radius: 75px;
     margin-top: 30px;
-    background: #ff4141;
+    background: #000000;
     color: white;
     font-size: 22px;
     font-weight: 500;   
